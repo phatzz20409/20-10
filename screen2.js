@@ -1,33 +1,32 @@
 const messageQueue = [
-  `Chúc các chị em không chỉ có một ngày 20/10 hạnh phúc, mà còn có thật nhiều ngày bình thường được iu thương thấu hiểu`,
+  `Chúc mọi người không chỉ có một ngày 20/10 hạnh phúc, mà còn có thật nhiều ngày bình thường được iu thương thấu hiểu`,
   `Chúc tất cả mấy bạn nữ A1ồn ăn mau chóng lớn, lớn nhanh lớn khỏe, đóng góp thật nhiều sản lượng vào GDP đất nước nhé `,
   `Wishing you a day full of joy!
     Happy Vietnamese Women's Day`,
   `Tháng Mười nắng ghé bên thềm,
-Gửi nàng một chút êm đềm mùa thu.
-Mong nàng chẳng phải ưu tư,
+Gửi bạn một chút êm đềm mùa thu.
+Mong bạn chẳng nặng ưu tư,
 Ngày vui nối tiếp, tâm tư hóa lành.
 Mong cho mắt biếc long lanh,
 Nụ cười vẫn nở trên cành thanh xuân.
 Đường đời dẫu có đôi lần,
 Mây đen kéo đến, nắng gần sẽ sang.
-Mong nàng chẳng phải vội vàng,
+Mong bạn chẳng phải vội vàng,
 Cứ vui, cứ sống dịu dàng nhẹ tênh.
 Nếu đời có lúc chênh vênh,
-Mong nàng vẫn thấy bình yên trong lòng.
+Mong bạn vẫn thấy bình yên trong lòng.
 Hai mươi tháng Mười nắng hồng,
-Gửi nàng hạnh phúc, gửi lòng mến thương.
-Mong nàng đi khắp muôn phương,
+Gửi bạn hạnh phúc, gửi lòng mến thương.
+Mong bạn đi khắp muôn phương,
 Vẫn luôn được quý, được thương thật nhiều `,
     
   ` Mong nhan sắc của bạn ngày càng thăng hạng, tài khoản thật nhiều số dư và mọi muộn phiền đều đăng xuất `,
   ` Gửi cậu một ít kẹo ngọt cho ngày vui. Hi vọng rằng mọi chuyện cũng sẽ ngọt ngào như chiếc kẹo ấy ',
   ' Hihi, cảm ơn vì đã là một mảnh ghép của 12A1. Nhân ngày hôm nay
-    Chúc mấy bạn ngày càng xinh đẹp, học hành thuận lợi và sớm đạt được điều mình muốn. 
-    Về tình cảm, mình xin chúc cho chị em nào đang yêu sẽ ngày càng nồng thắm, ai đang có crush thì sớm được tỏ tình, còn không nữa thì sớm tìm được nửa kia.
-    Chúc mọi người ạn sự may mắn !`,
+    Chúc mấy bạn ngày càng xinh đẹp, học hành thuận lợi và sớm đạt được điều mình mong muốn. Chúc mọi người vạn sự may mắn !`,
   `Mùng 20/10 không chúc các chị em cái gì, chỉ mong các chị em luôn độc lập - tự do - hạnh phúc. Độc lập thì đường hoàng, không phải dựa dẫm vào ai thì có tự do, mà có tự do, là có hạnh phúc.`,
   `Chúc chị em luôn xinh đẹp, tình đầy tim, tiền đầy túi`,
+  ' Mong mỗi ngày cậu đều có một tấm vé miễn phí để đi đến nơi khiến mình hạnh phúc, gặp những người khiến mình thoải mái và rời khỏi những điều không còn phù hợp.',
   `Chúc các chị em phụ nữ có một ngày 8/3 thật ý nghĩa và hạnh phúc bên gia đình và bạn bè của mình nhé.`,
   `Chúc cho hành trình phía trước của mọi người sẽ như mong đợi, đạt những thành tựu mong muốn, đặt chân đến ngôi trường đại học mà mình mơ ước`,
   `Chúc các bạn nữ một ngày 20/10 vui vẻ, luôn vui tươi, xinh đẹp và yêu đời như mọi ngày. Mặc kệ những lời đàm tiếu xung quanh, vì bạn đẹp nhất khi là chính mình.`,
