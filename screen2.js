@@ -1,35 +1,36 @@
 const messageQueue = [
-  `Chúc các bạn nữ ngày 8/3 luôn xinh đẹp như hoa, rạng rỡ như nắng và ngọt ngào như mật. Happy Women's Day!!!!`,
-  `Chúc tất cả chị em không chỉ có 1 ngày 8/3 mà mỗi ngày đều vui vẻ, trẻ trung, xinh đẹp nhé!`,
-  `Chúc các chị/em có một ngày 8/3 thật ý nghĩa, được mọi người yêu thương, tiền đầy túi, tình đầy tim.
-    Happy Women's Day`,
-  `Văn thì em chẳng có đâu
-    Thơ thì... một chút đôi câu gọi là
+  `Chúc các chị em không chỉ có một ngày 20/10 hạnh phúc, mà còn có thật nhiều ngày bình thường được iu thương thấu hiểu`,
+  `Chúc tất cả mấy bạn nữ A1ồn ăn mau chóng lớn, lớn nhanh lớn khỏe, đóng góp thật nhiều sản lượng vào GDP đất nước nhé `,
+  `Wishing you a day full of joy!
+    Happy Vietnamese Women's Day`,
+  `Tháng Mười nắng ghé bên thềm,
+Gửi nàng một chút êm đềm mùa thu.
+Mong nàng chẳng phải ưu tư,
+Ngày vui nối tiếp, tâm tư hóa lành.
+Mong cho mắt biếc long lanh,
+Nụ cười vẫn nở trên cành thanh xuân.
+Đường đời dẫu có đôi lần,
+Mây đen kéo đến, nắng gần sẽ sang.
+Mong nàng chẳng phải vội vàng,
+Cứ vui, cứ sống dịu dàng nhẹ tênh.
+Nếu đời có lúc chênh vênh,
+Mong nàng vẫn thấy bình yên trong lòng.
+Hai mươi tháng Mười nắng hồng,
+Gửi nàng hạnh phúc, gửi lòng mến thương.
+Mong nàng đi khắp muôn phương,
+Vẫn luôn được quý, được thương thật nhiều `,
     
-    "Hôm nay mùng tám tháng ba
-    Là ngày gửi những lời ca đến người
-    Gửi nửa thế giới xinh tươi
-    Luôn luôn vui vẻ rạng ngời như hoa
-    Yêu đời hát những khúc ca
-    Nửa kia thế giới nghe là mê say
-    Giấc mơ thì hãy cứ bay
-    Bay cao cao vút đến ngày thành công
-    Mong vạn điều ước chờ mong
-    Sẽ sớm chẳng phải ngóng trông đợi chờ
-    Thôi thì cứ mộng cứ mơ
-    (Cho) nửa kia thế giới ngẩn ngơ ngắm nhìn."`,
-    
-  `Chúc mừng ngày của những người phụ nữ đáng quý! Mong bạn luôn được tràn đầy niềm vui, sức khỏe và thành công trong cuộc sống và sự nghiệp.`,
-  `Chúc bạn ngày Quốc tế Phụ nữ thật vui vẻ và đầy ý nghĩa! Hãy tiếp tục truyền cảm hứng và là nguồn động viên cho mọi người xung quanh nhé.`,
-  `Chúc các chị em thật vui vẻ và rạng rỡ trong ngày 8/3
-    Chúc chị em ngày càng xinh đẹp, công việc thuận lợi và sớm đạt được điều mình muốn. 
+  ` Mong nhan sắc của bạn ngày càng thăng hạng, tài khoản thật nhiều số dư và mọi muộn phiền đều đăng xuất `,
+  ` Gửi cậu một ít kẹo ngọt cho ngày vui. Hi vọng rằng mọi chuyện cũng sẽ ngọt ngào như chiếc kẹo ấy ',
+  ' Hihi, cảm ơn vì đã là một mảnh ghép của 12A1. Nhân ngày hôm nay
+    Chúc mấy bạn ngày càng xinh đẹp, học hành thuận lợi và sớm đạt được điều mình muốn. 
     Về tình cảm, mình xin chúc cho chị em nào đang yêu sẽ ngày càng nồng thắm, ai đang có crush thì sớm được tỏ tình, còn không nữa thì sớm tìm được nửa kia.
-    Happy Woman Day!`,
-  `Mùng 8 - 3 không chúc các chị em cái gì, chỉ mong các chị em luôn độc lập - tự do - hạnh phúc. Độc lập thì đường hoàng, không phải dựa dẫm vào ai thì có tự do, mà có tự do, là có hạnh phúc.`,
+    Chúc mọi người ạn sự may mắn !`,
+  `Mùng 20/10 không chúc các chị em cái gì, chỉ mong các chị em luôn độc lập - tự do - hạnh phúc. Độc lập thì đường hoàng, không phải dựa dẫm vào ai thì có tự do, mà có tự do, là có hạnh phúc.`,
   `Chúc chị em luôn xinh đẹp, tình đầy tim, tiền đầy túi`,
   `Chúc các chị em phụ nữ có một ngày 8/3 thật ý nghĩa và hạnh phúc bên gia đình và bạn bè của mình nhé.`,
-  `Gửi lời chúc riêng đến các chị em bạn bè mãi tươi trẻ và nhiệt huyết <3`,
-  `Chúc các bạn nữ một ngày 8/3 vui vẻ, luôn vui tươi, xinh đẹp và yêu đời như mọi ngày. Mặc kệ những lời đàm tiếu xung quanh, vì em đẹp nhất khi là chính em.`,
+  `Chúc cho hành trình phía trước của mọi người sẽ như mong đợi, đạt những thành tựu mong muốn, đặt chân đến ngôi trường đại học mà mình mơ ước`,
+  `Chúc các bạn nữ một ngày 20/10 vui vẻ, luôn vui tươi, xinh đẹp và yêu đời như mọi ngày. Mặc kệ những lời đàm tiếu xung quanh, vì bạn đẹp nhất khi là chính mình.`,
 ];
 
 const LETTER_WIDTH = 60 * 1.51;
